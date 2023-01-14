@@ -1,2 +1,2 @@
 # top-css-foundations
-TOP CSS Foundations
+The Odin Project CSS Foundations
