@@ -1,2 +1,2 @@
 # top-css-foundations
-TOP CSS Fundations
+TOP CSS Foundations
