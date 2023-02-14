@@ -1,1 +1,1 @@
-# A common ''[Dmodal style
+# A common 'modal' style
